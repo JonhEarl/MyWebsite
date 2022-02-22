@@ -7,7 +7,7 @@
 <body>
 <header>
   <div class="main">
-    <div class="logo"> <img src="stuffs/download.png"> </div>
+    <div class="logo"> <img src="stuffs/download.png"> 
     <ul>
       <li class="active"><a href="#">Home</a></li>
       <li><a href="1.html">MATH</a></li>
@@ -23,8 +23,6 @@
     <a href="#">
     <button class="btn">Search</button>
     </a> </div>
-</header>
-</body>
 <div class="subtitle">
   <p>Scaffold: Main Web Page (HOME PAGE)
     Group 2: Estil, Demontano, Bermejo, Salvilla, Carin</p>
